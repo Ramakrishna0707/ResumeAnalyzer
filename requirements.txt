@@ -1,0 +1,6 @@
+flask
+PyPDF2
+openai
+# langchain
+# langchain-openai
+python-dotenv

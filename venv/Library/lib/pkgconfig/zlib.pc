@@ -1,0 +1,13 @@
+prefix=D:/Projects/ResumeAnalyzer/venv/Library
+exec_prefix=D:/Projects/ResumeAnalyzer/venv/Library
+libdir=D:/Projects/ResumeAnalyzer/venv/Library/lib
+sharedlibdir=D:/Projects/ResumeAnalyzer/venv/Library/lib
+includedir=D:/Projects/ResumeAnalyzer/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
