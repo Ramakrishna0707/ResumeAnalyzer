@@ -25,6 +25,8 @@ ResumeAnalyzer is a Python-based tool designed to analyze resumes and extract re
 
 ``` python src/app.py ``` 
 
-## SAMPLE PHOTOS
+## SAMPLE OUTPUT IMAGES
 
-![Example Image](D:\Projects\ResumeAnalyzer\Screenshot (4).png)
+![Screenshot (4)](https://github.com/Ramakrishna0707/ResumeAnalyzer/assets/63601751/9092a35b-26b4-4e3c-9604-e6644a629ce6)
+
+![Screenshot (5)](https://github.com/Ramakrishna0707/ResumeAnalyzer/assets/63601751/c3437732-0cab-4781-a9b3-43f88409585e)
