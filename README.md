@@ -8,9 +8,7 @@ ResumeAnalyzer is a Python-based tool designed to analyze resumes and extract re
 - **Resume Parsing**: Extracts information from resumes in various formats such as PDF, DOCX, and TXT.
 - **Data Extraction**: Parses resumes to identify key sections such as education, work experience, skills, and contact information.
 - **Keyword Matching**: Matches resumes against a predefined list of keywords or skills to identify relevant candidates.
-- **Data Visualization**: Generates visualizations such as word clouds or bar charts to highlight key skills or experiences across resumes.
 - **Scalability**: Designed to handle large volumes of resumes efficiently.
-- **Customization**: Provides options for customization to adapt to specific requirements or formats of resumes.
 
 ## Installation
 
