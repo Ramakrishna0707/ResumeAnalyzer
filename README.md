@@ -18,10 +18,7 @@ ResumeAnalyzer is a Python-based tool designed to analyze resumes and extract re
 
 2. Install the required dependencies:
 
-    ``` flask
-    PyPDF2
-    openai
-    python-dotenv ```
+    ``` flask PyPDF2 openai python-dotenv ```
 
 3. Run the below codes
 ``` pip install -r requirements.txt ```
@@ -30,4 +27,4 @@ ResumeAnalyzer is a Python-based tool designed to analyze resumes and extract re
 
 ## SAMPLE PHOTOS
 
-![Example Image](D:/Projects/ResumeAnalyzer/Screenshot (4).png)
+![Example Image](D:\Projects\ResumeAnalyzer\Screenshot (4).png)
